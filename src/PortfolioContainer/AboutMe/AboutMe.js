@@ -51,7 +51,7 @@ export default function AboutMe(props) {
             </div>
             <div className="about-me-options">
               <button className="btn primary-btn">Hire Me</button>
-              <a href="resume.pdf" download="Resume.pdf">
+              <a href="resume.pdf" download="resume.pdf">
                 <button className="btn highlighted-btn">Get Resume</button>
               </a>
             </div>
